@@ -6,7 +6,7 @@ The ones I know are:
 
 - matplotlib - the OG
 - plotly - for more interactive plots
-- seaborn for a morepleasing aesthetic, includes additonal statistical visualisations, still static
+- seaborn for a more pleasing aesthetic, includes additonal statistical visualisations, still static
 
 pandas can also be configured with alternate rendering backends.
 
@@ -17,7 +17,7 @@ eg,
 pd.options.plotting.backend = "plotly"
 ```
 
-This way instead of using a funcitons call like:
+This way instead of using a functions call like:
 
 ```python
 plt.plot(df[col].values())
