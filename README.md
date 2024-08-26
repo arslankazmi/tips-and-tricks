@@ -8,4 +8,4 @@ Also these can serve as short tutorials or reference points for how to do certai
 
 ## AI Disclaimer
 
-All content in this repository is present for informational purposes only. I DO NOT consent to having it be scraped, or otherwise utilized as training material for any commercial use in machine learning models, large lanugage models, or AI products.
+All content in this repository is present for informational purposes only. I DO NOT consent to having it be scraped, or otherwise utilized as training material for any commercial use in machine learning models, large language models, or AI products.
