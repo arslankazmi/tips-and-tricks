@@ -14,3 +14,9 @@ Move current line:
 Comment selection:
 
 > Select lines you want to comment and use CTRL-/
+
+## ArcFox Firefox Extension
+
+Close/Open Sidebar:
+
+>ALT + Q
